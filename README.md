@@ -28,6 +28,6 @@
 ![uml]()
 
 > ### Demo <br>
-![demo gif]()
+![demo gif](images/zombieGame.gif)
 
 
