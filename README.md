@@ -27,7 +27,7 @@
 ---
 
 > ### Class Digran(UML) <br>
-<img src = "https://github.com/da092511/zombie/blob/master/images/ZombieGame.jpg" width = "400" height="300"/>
+<img src = "images/zombie.jpg" width = "620" height="350"/>
 
 ---
 
